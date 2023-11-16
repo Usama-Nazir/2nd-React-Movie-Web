@@ -1,0 +1,183 @@
+.nav{
+    width: 100%;
+    /* padding: 1rem; */
+    background-color: rgba(35, 35, 86, 0.793);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.logo{
+    width: 15%;
+    color: white;
+    font-size: 2rem;
+}
+.searchbar{
+    width: 45%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+}
+.search{
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: none;
+}
+.icon{
+    width: 40px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 1.3rem;
+    float: right;
+}
+.links{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+}
+.item{
+    /* width: 20%; */
+    /* color: white; */
+  
+}
+.pera{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.head{
+    font-size: 1.9rem;
+    font-weight: 700;
+}
+.card{
+    width: 30rem;
+    margin: 2rem 0 2rem 2rem ;
+    border: 1px solid grey;
+    border-radius: 8px;
+    box-shadow: 10px 10px 10px 10px grey;
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.info{
+    width: 20%;
+    display: block;
+}
+.name{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.price{
+    font-size: 1.4rem;
+    color: rgb(253, 2, 2);
+}
+.icons i{
+    color: rgb(253, 253, 4);
+}
+.bag{
+    width: 20rem;
+}
+.btn{
+    width: 12rem;
+    background-color: rgb(42, 42, 246);
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 1rem;
+    border-radius: 10px;
+}
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: contain;
+    background-position: center;
+}
+.card2{
+    width: 90%;
+    margin: 2rem auto;
+    border: 1px solid grey;
+    border-radius: 8px;
+    /* box-shadow: 10px 10px 10px 10px grey; */
+    text-align: center;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bag{
+    width: 30%;
+}
+.pic{
+    width: 100%;
+}
+.description{
+    width: 65%;
+}
+.heading{
+    font-size: 2.5rem;
+}
+.pera{
+    font-size: 1rem;
+}
+.link{
+    font-size: 1.7rem;
+}
+.signup{
+    width: 40rem;
+    margin: 0 auto;
+    font-size: 1.8rem;
+    padding: 2rem;
+    /* text-align: center; */
+}
+.shop{
+    text-align: center;
+}
+.sign{
+    width: 85%;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid black;
+    border-radius: 7px;
+    box-shadow: 10px 10px 10px grey;
+}
+.title{
+    text-align: center;
+    font-size: 1.7rem;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1.7rem 0;
+}
+.email{
+    font-size: 1.2rem;
+}
+.mail{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 7px;
+    margin-top: 1rem;
+}
+.account{
+    width: 100%;
+    text-align: center;
+    font-size: 1.6rem;
+}
+.link{
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: grey;
+}
